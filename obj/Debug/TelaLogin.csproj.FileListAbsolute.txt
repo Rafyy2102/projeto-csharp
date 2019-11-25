@@ -1,0 +1,11 @@
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.Cadastro.resources
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.AlterarSenha.resources
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.Login.resources
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\RafySan\source\repos\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\RafySan\source\repos\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\RafySan\source\repos\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\RafySan\source\repos\TelaLogin\obj\Debug\TelaLogin.pdb
